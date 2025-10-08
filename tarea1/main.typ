@@ -171,8 +171,8 @@
   the definition of $sin$ and $cos$, $f$ is surjective.
 
   Now, note that $[0, 2 pi)$ is contractible via $H(x, t) = t x$, but
-  $f([0, 2 pi)) = S^1$ is not contractible, because $pi_1(S^1, (1, 0))=ZZ$,
-  which is non-trivial.
+  $f([0, 2 pi)) = S^1$ is not contractible, because $pi_1(S^1, (1, 0)) tilde.eq
+  ZZ$, which is non-trivial.
 
   == Proof (ii):
 
