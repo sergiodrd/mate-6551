@@ -76,7 +76,7 @@
   that we have $[(x, t)] = [(x', t')]$ in $C X$, then $t = t'$ by construction
   of $C X$. If $t = t' = 1$, then: $ C f [(x, t)] = [(f(x), t)] = [(f(x), 1)] =
   [(f(x'), 1)] = [(f(x'), t')] = C f [(x', t')] $ If not, then $x = x'$, again
-  by construction of $C f$. Thus, $ C f [(x, t)] = [(f(x), t)] = [(f(x'), t')] =
+  by construction of $C X$. Thus, $ C f [(x, t)] = [(f(x), t)] = [(f(x'), t')] =
   C f [(x', t')] $ Therefore, $C f$ is well-defined.
 
   Let $pi:Y times I -> C Y$ denote the quotient application, and
